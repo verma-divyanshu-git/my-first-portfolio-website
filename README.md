@@ -4,7 +4,7 @@
 
 Simple terminal-style portfolio website that uses the [WinBox](https://github.com/nextapps-de/winbox) library
 
-## [Demo]([https://verma-divyanshu-git.github.io/my-first-portfolio-website/])
+## [Demo](https://verma-divyanshu-git.github.io/my-first-portfolio-website/)
 
 ## Preview
 ![Preview](./img/preview.png)
